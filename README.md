@@ -8,7 +8,7 @@ The data was provided through a dataset from Kaggle. The scripts were developed 
 1- Which job categories have the highest number of joB opportunities? 
 2- How does the average salary vary by experience level?
 
-Video link: 
+Video link: https://www.youtube.com/watch?v=41vOftUer78
 
 # Development Environment
 
